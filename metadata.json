@@ -1,0 +1,5 @@
+{
+  "name": "Enigma M4 Simulator",
+  "description": "A high-fidelity, fully functional simulation of the Kriegsmarine Enigma M4 cipher machine featuring accurate rotor logic, double-stepping, customizable plugboard, and authentic UI.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "@fontsource/special-elite";
+@import "@fontsource/courier-prime";
+
+@theme {
+  --font-typewriter: "Courier Prime", monospace;
+  --font-special-elite: "Special Elite", monospace;
+}
+
+body {
+  font-family: var(--font-special-elite);
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
